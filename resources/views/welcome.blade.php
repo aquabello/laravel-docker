@@ -20,7 +20,6 @@
                 height: 100vh;
                 margin: 0;
             }
-
             .full-height {
                 height: 100vh;
             }
@@ -79,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    This is Laravel
+                    This is Laravel!!
                 </div>
 
                 <div class="links">
